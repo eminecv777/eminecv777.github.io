@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>مؤسسة المدينة لتركيب زجاج السوكريت</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+      text-align: center;
+    }
+
+    header {
+      background: #005f73;
+      color: white;
+      padding: 2rem;
+    }
+
+    h1 {
+      margin-bottom: 0.5rem;
+    }
+
+    section {
+      padding: 2rem;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .info {
+      font-size: 1.2rem;
+      margin-bottom: 2rem;
+    }
+
+    .contact a {
+      display: block;
+      margin: 0.5rem;
+      text-decoration: none;
+      color: #005f73;
+      font-weight: bold;
+      font-size: 1.1rem;
+    }
+
+    footer {
+      background: #222;
+      color: #aaa;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>مؤسسة المدينة لتركيب زجاج السوكريت</h1>
+    <p>خبرة عالية في تفصيل وتركيب زجاج السيكوريت بجودة ومهارة.</p>
+  </header>
+
+  <section>
+    <div class="info">
+      <p>نحن متخصصون في:</p>
+      <ul>
+        <li>تركيب واجهات زجاجية</li>
+        <li>أبواب شاورات وحمامات</li>
+        <li>زجاج مكاتب وتجاري</li>
+        <li>زجاج مقاوم للصدمات والعزل الحراري</li>
+      </ul>
+    </div>
+
+    <div class="contact">
+      <h2>تواصل معنا</h2>
+      <a href="https://wa.me/966581023332" target="_blank">واتساب: +966581023332</a>
+      <a href="tel:+966581023332">اتصل بنا: +966581023332</a>
+      <a href="mailto:medglass8@gmail.com">البريد الإلكتروني: medglass8@gmail.com</a>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 مؤسسة المدينة – جميع الحقوق محفوظة
+  </footer>
+</body>
+</html>
